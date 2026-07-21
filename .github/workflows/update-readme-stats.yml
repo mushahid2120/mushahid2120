@@ -31,11 +31,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak stats card
-        uses: DenverCoder1/github-readme-streak-stats-action@v3
+        uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          user_id: ${{ github.repository_owner }}
-          output: profile/streak-stats.svg
-          hide_border: "true"
+          options: "user=${{ github.repository_owner }}&theme=default&hide_border=true"
+          path: profile/streak-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit updated cards
         run: |
