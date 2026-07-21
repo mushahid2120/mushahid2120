@@ -144,9 +144,6 @@ An MCP server (FastMCP + SQLAlchemy) that lets AI assistants log and query expen
 
 <p align="center"> <img height="165" src="./profile/stats.svg"/> <img height="165" src="./profile/top-langs.svg"/> </p> <p align="center"> <img src="./profile/streak-stats.svg" alt="GitHub Streak"/> </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mushahid2120&hide_border=true" alt="GitHub Streak"/>
-</p>
 
 ---
 
