@@ -142,10 +142,7 @@ An MCP server (FastMCP + SQLAlchemy) that lets AI assistants log and query expen
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mushahid2120&show_icons=true&theme=default&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mushahid2120&layout=compact&hide_border=true"/>
-</p>
+<p align="center"> <img height="165" src="./profile/stats.svg"/> <img height="165" src="./profile/top-langs.svg"/> </p> <p align="center"> <img src="./profile/streak-stats.svg" alt="GitHub Streak"/> </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mushahid2120&hide_border=true" alt="GitHub Streak"/>
