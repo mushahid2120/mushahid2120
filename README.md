@@ -174,7 +174,6 @@ Full DevSecOps pipeline: build → SonarQube → Trivy filesystem scan → Nexus
   endpoints, which are frequently rate-limited or offline.
 -->
 <p align="center">
-  <p align="center"> <img height="165" src="./profile/stats.svg"/> <img height="165" src="./profile/top-langs.svg"/> </p> 
   <img height="165" src="./profile/top-langs.svg"/>
 </p>
 
